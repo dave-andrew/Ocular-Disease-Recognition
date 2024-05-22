@@ -4,3 +4,4 @@ pandas
 opencv-python
 numpy
 scikit-learn
+imbalanced-learn
