@@ -1,4 +1,5 @@
 # BEGIN: /D:/Cool Yeah/Research Methodology/Ocular Disease Recognition/.gitignore
 /dataset
 /odir
+/trained_model
 # END: /D:/Cool Yeah/Research Methodology/Ocular Disease Recognition/.gitignore
