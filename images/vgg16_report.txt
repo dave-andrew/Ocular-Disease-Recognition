@@ -1,0 +1,13 @@
+                          precision    recall  f1-score   support
+
+age_macular_degeneration       0.42      0.20      0.28       221
+                cataract       0.76      0.73      0.75       222
+    diabetic_retinopathy       0.83      0.84      0.83       235
+                glaucoma       0.51      0.38      0.44       224
+            hypertension       0.53      0.51      0.52       217
+                  normal       0.45      0.73      0.56       196
+     pathological_myopia       0.57      0.74      0.65       223
+
+                accuracy                           0.59      1538
+               macro avg       0.58      0.59      0.57      1538
+            weighted avg       0.59      0.59      0.58      1538
